@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "diAsFRsjBj1hLkzTZPMNW4P9FCc5oWukIxng9UAgCV20lDA4bBlZ4vwJJUvoWh1WiK9dWMaOOxRRjWme69jJWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\burak\\source\\repos\\KutuphaneTakip\\KutuphaneTakip\\KutuphaneTakip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\burak\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.10\\microsoft.data.sqlite.core.5.0.10.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115\\stub.system.data.sqlite.core.netstandard.1.0.115.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\system.data.sqlite.core\\1.0.115\\system.data.sqlite.core.1.0.115.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
