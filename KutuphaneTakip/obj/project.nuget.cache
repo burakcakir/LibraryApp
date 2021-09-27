@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "diAsFRsjBj1hLkzTZPMNW4P9FCc5oWukIxng9UAgCV20lDA4bBlZ4vwJJUvoWh1WiK9dWMaOOxRRjWme69jJWQ==",
+  "dgSpecHash": "beJygrbNjsT9mNlwD30TGIPA5teP9EE1kU+yne/fnEJ1wd2RYTT5Uf5XJXwECQApLs4WTU2aRA7XPPZ72Lp0rQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\burak\\source\\repos\\KutuphaneTakip\\KutuphaneTakip\\KutuphaneTakip.csproj",
+  "projectFilePath": "C:\\Users\\burak\\Documents\\Visual Studio 2019\\Projects\\KutuphaneTakip\\KutuphaneTakip\\KutuphaneTakip.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\burak\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.10\\microsoft.data.sqlite.core.5.0.10.nupkg.sha512",
     "C:\\Users\\burak\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\burak\source\repos\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\
 KutuphaneTakip
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-C:\Users\burak\source\repos\KutuphaneTakip\KutuphaneTakip\App.xaml
-2-79281950
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\App.xaml
+41558460277
 
-8-652009806
+131435027437
 195-710084897
-MainWindow.xaml;UserController\ucLibraryApp.xaml;
+BilgiEkrani.xaml;MainWindow.xaml;UserController\ucLibraryApp.xaml;winKitapEkle.xaml;
 
 False
 

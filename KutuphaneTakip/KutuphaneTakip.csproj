@@ -14,11 +14,17 @@
     <None Remove="images\icon\add.png" />
     <None Remove="images\icon\add2.png" />
     <None Remove="images\icon\ayarlar.png" />
+    <None Remove="images\icon\basarili.png" />
+    <None Remove="images\icon\basarisiz.png" />
+    <None Remove="images\icon\bilgiveren.png" />
     <None Remove="images\icon\book-shop.png" />
     <None Remove="images\icon\info.png" />
+    <None Remove="images\icon\kitapekle.png" />
+    <None Remove="images\icon\kitapiptalet.png" />
     <None Remove="images\icon\kitaplar.png" />
     <None Remove="images\icon\list.png" />
     <None Remove="images\icon\list2.png" />
+    <None Remove="images\icon\menu.png" />
     <None Remove="images\icon\okuyucu.png" />
     <None Remove="images\icon\person.png" />
     <None Remove="images\icon\takvim.png" />
@@ -53,10 +59,25 @@
     <Resource Include="images\icon\ayarlar.png">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
+    <Resource Include="images\icon\basarili.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\icon\basarisiz.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\icon\bilgiveren.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="images\icon\book-shop.png">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
     <Resource Include="images\icon\info.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\icon\kitapekle.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\icon\kitapiptalet.png">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
     <Resource Include="images\icon\kitaplar.png">
@@ -68,6 +89,9 @@
     <Resource Include="images\icon\list2.png">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
+    <Resource Include="images\icon\menu.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="images\icon\okuyucu.png">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
@@ -77,6 +101,12 @@
     <Resource Include="images\icon\takvim.png">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="sounds\popupeffect.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

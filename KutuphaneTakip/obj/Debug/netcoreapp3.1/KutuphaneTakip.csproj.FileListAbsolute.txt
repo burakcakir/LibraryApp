@@ -33,3 +33,43 @@ C:\Users\burak\source\repos\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.
 C:\Users\burak\source\repos\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
 C:\Users\burak\source\repos\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
 C:\Users\burak\source\repos\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\KutuphaneTakip.exe
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\KutuphaneTakip.deps.json
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\KutuphaneTakip.runtimeconfig.json
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\KutuphaneTakip.runtimeconfig.dev.json
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\KutuphaneTakip.dll
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\KutuphaneTakip.pdb
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\KutuphaneTakip.csproj.AssemblyReference.cache
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\UserController\ucLibraryApp.g.cs
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\KutuphaneTakip_MarkupCompile.cache
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\KutuphaneTakip_MarkupCompile.lref
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\UserController\ucLibraryApp.baml
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\KutuphaneTakip.g.resources
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\KutuphaneTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\KutuphaneTakip.AssemblyInfoInputs.cache
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\KutuphaneTakip.AssemblyInfo.cs
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\KutuphaneTakip.csproj.CoreCompileInputs.cache
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\KutuphaneTakip.csproj.CopyComplete
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\KutuphaneTakip.dll
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\KutuphaneTakip.pdb
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\KutuphaneTakip.genruntimeconfig.cache
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\winKitapEkle.g.cs
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\winKitapEkle.baml
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\bin\Debug\netcoreapp3.1\sounds\popupeffect.wav
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\BilgiEkrani.g.cs
+C:\Users\burak\Documents\Visual Studio 2019\Projects\KutuphaneTakip\KutuphaneTakip\obj\Debug\netcoreapp3.1\BilgiEkrani.baml
